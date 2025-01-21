@@ -18,13 +18,13 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Capacitor",
-            url: "https://github.com/ionic-team/capacitor-swift-pm/releases/download/4.4.0/Capacitor.xcframework.zip",
-            checksum: "52ebbe415f74c3516548d2ed1bcf00c76fe90f59091dda5ef9896e7e7a52edf5"
+            url: "https://github.com/ionic-team/capacitor-swift-pm/releases/download/7.0.1/Capacitor.xcframework.zip",
+            checksum: "7781e0a8d8072c26132fd1170e4fe08ae72a98ef664e28176c7e43f241c3479e"
         ),
         .binaryTarget(
             name: "Cordova",
-            url: "https://github.com/ionic-team/capacitor-swift-pm/releases/download/4.4.0/Cordova.xcframework.zip",
-            checksum: "f525445656ee859fc3536296fc91da1e475de7517fb16ff4179d7393639a7765"
+            url: "https://github.com/ionic-team/capacitor-swift-pm/releases/download/7.0.1/Cordova.xcframework.zip",
+            checksum: "7ddd2dd4587a0336d5ac363119a1f6bdf8f9d7409661b462d3dc4f0a009deb06"
         )
     ]
 )
